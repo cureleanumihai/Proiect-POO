@@ -17,7 +17,7 @@ class vectori
        int& operator[](int i);
        int suma();
        void maxim1();
-       vectori ordonare();
+       void ordonare();
        vectori operator*(const vectori &other);
        void reactualizare(int n,int nr);
        friend ostream & operator<<(ostream & out,const vectori &a);
