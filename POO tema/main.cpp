@@ -4,7 +4,7 @@
 using namespace std;
 int main()
 {   int n,nr;
-    vectori a(3,4);
+    vectori a(7,5);
     cout<<a;
     vectori b;
     cin>>b;
