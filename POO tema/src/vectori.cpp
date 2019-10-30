@@ -74,7 +74,7 @@ void vectori::maxim1()
   cout<<"Maximul este "<<max1<<" si se afla pe pozitia "<<pozmax1<<"\n";
 
 }
-vectori vectori::ordonare()
+void vectori::ordonare()
 { int i,j;
   int aux;
   for(i=1;i<nr_elem;i++)
