@@ -8,7 +8,6 @@ int main()
     cout<<a;
     vectori b;
     cin>>b;
-    cout<<"eu";
     cout<<b.suma()<<"\n";
     b.ordonare();
     cout<<b;
