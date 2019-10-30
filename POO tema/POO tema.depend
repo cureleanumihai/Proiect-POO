@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1572462452 source:c:\users\user\documents\c facultate\poo tema\main.cpp
+	<iostream>
+	<vectori.h>
+	<cassert>
+
+1572461831 c:\users\user\documents\c facultate\poo tema\include\vectori.h
+	<iostream>
+	<stdexcept>
+
+1572461877 source:c:\users\user\documents\c facultate\poo tema\src\vectori.cpp
+	"vectori.h"
+	<stdexcept>
+	<iostream>
+
