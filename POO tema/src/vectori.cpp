@@ -84,7 +84,6 @@ void vectori::ordonare()
               v[i]=v[j];
               v[j]=aux;
            }
-  return *this;
 }
 istream &operator >>(istream &in,vectori &a)
 {   int *aux;
